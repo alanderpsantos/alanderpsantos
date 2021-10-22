@@ -44,10 +44,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!--
-  
-- [Multithreading C++ application](https://alanderps.wordpress.com/multithreading-cpp)
--->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://alanderps.wordpress.com)
